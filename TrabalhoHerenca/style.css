@@ -1,0 +1,30 @@
+#header {
+    width: 80%;
+    height: 100px;
+    margin: 0 auto;
+    background:rgb(219, 98, 98);
+    border: 1px solid rgb(236, 165, 165);
+    }
+    #h1 {
+    font-size: 30;
+    text-align: center;
+    }
+    #h2 {
+    font-size: 24;
+    text-align: center;
+    }
+    #content {
+    width: 80%;
+    height: 500px;
+    margin: 0 auto;
+    background: rgba(255, 255, 255);
+    border: 1px solid rgb(0, 0, 0);
+    }
+    #foot {
+    width: 80%;
+    height: 50px;
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid rgb(0, 0, 0);
+    }
+.container { text-align: center; }
